@@ -12,6 +12,7 @@ Developed a simple Large Language Model (LLM)-based autonomous agent to assist u
 - Feel free to use the `BookGPT` to your heart's desire.
 
 ## Demonstration Video
+[Demo_video.webm](https://github.com/PAINxNAGATO/BookGPT/assets/99479730/c47378bd-0405-4ffb-a37e-44f3a4d810ca)
 
 
 
